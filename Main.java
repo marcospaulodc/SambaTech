@@ -19,7 +19,11 @@ public class Main
 	    
 	    boolean i = driver.getPageSource().contains("Email ou senha incorretos.");
         
-	    System.out.println("Ocorreu falha no login? "+(i?"Sim":"N�o"));
+	    System.out.println("Ocorreu falha no login? "+(i?"Sim":"Não"));
+	    
+	    //Verificação se o login obteve sucesso e logo adiante, a chamada de outras Classes para testar outras funcionalidades
+	    //Chamadas...
+			
 	    driver.close();
 	}
 }
