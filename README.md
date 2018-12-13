@@ -7,5 +7,5 @@ Optei por implementar apenas um caso de teste de login contendo o retorno se o l
 
 Achei extremamente interessante trabalhar com Webdriver, criei um robô e pretendo criar inúmeras tarefas para ele.
 
-Lembrando que a minha teoria quanto à testes nas aplicações é não testar com intuito de estar tudo funcionamendo perfeitamente e, sim com o intuito de esmiuçar toda a aplicação afim de realmente encontrar alguma falha, erro, caso de uso não contemplado em especificação e desenvolvimento.
+Lembrando que a minha teoria quanto à testes nas aplicações é não testar com intuito de estar tudo funcionamendo perfeitamente e, sim com o intuito de esmiuçar toda a aplicação afim de realmente encontrar alguma falha, erro, caso de uso não contemplado em especificação e desenvolvimento, provendo melhorias contínuas aumentando assim a qualidade do software.
 
